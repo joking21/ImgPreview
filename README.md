@@ -1,13 +1,17 @@
 # 图片查看，放大缩小旋转，上一张下一张
 ## 参考链接 https://github.com/fengyuanchen/viewerjs
 
+## 安装
+```javascript
+ npm install dww-img-preview  --save
+```
 ## 调用方式 
 
 * upload图片回显
 ```javascript
 import React from 'react';
 import { Upload } from 'antd';
-import { ImagePreview } from 'lina';
+import { ImagePreview } from 'dww-img-preview';
 
 class PicturesWall extends React.Component {
   state = {
