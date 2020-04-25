@@ -1,0 +1,26 @@
+{
+  "name": "dww-img-preview",
+  "version": "1.0.0",
+  "description": "图片预览查看",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joking21/ImgPreview.git"
+  },
+  "keywords": [
+    "react图片预览查看"
+  ],
+  "author": "dww",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.8.6",
+    "viewerjs": "^1.3.6"
+  },
+  "bugs": {
+    "url": "https://github.com/joking21/ImgPreview/issues"
+  },
+  "homepage": "https://github.com/joking21/ImgPreview#readme"
+}
